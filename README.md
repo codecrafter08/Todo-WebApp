@@ -111,7 +111,7 @@ Contributions are welcome! If you'd like to contribute to this project, please f
 
 ## License
 
-This project is licensed under the [Tyloones.com License](https://tyloones.com). See the [LICENSE](https://tyloones.com)) file for more details.
+This project is licensed under the MIT License. See the [LICENSE](./LICENSE.md) file for more details. For more information about the MIT License, please visit [MIT License](https://opensource.org/licenses/MIT).
 
 ---
 
